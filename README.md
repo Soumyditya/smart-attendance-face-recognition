@@ -8,7 +8,6 @@ to automatically mark student attendance.
 - Real-time face recognition
 - Automatic IN and OUT attendance marking
 - CSV-based attendance storage
-- Simple GUI using Tkinter
 
 ## Technologies Used
 - Python
@@ -16,7 +15,7 @@ to automatically mark student attendance.
 - face_recognition
 - NumPy
 - Pandas
-- Tkinter
+
 
 ## How to Run
 
