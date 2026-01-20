@@ -22,3 +22,11 @@ to automatically mark student attendance.
 ### Step 1: Install dependencies
 ```bash
 pip install opencv-python face_recognition numpy pandas
+
+## 📸 Screenshots
+
+### Face Enrollment
+![Enrollment](images/face.jpeg)
+
+### Attendance Marking
+![Attendance](images/attendance.png)
