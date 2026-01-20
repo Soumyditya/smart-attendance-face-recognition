@@ -36,7 +36,7 @@ while True:
     elif key == ord('q'):
         print("[INFO] Exiting without saving.")
         break
-
+        
 # Clean up
 cam.release()
 cv2.destroyAllWindows()
