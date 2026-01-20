@@ -23,10 +23,8 @@ to automatically mark student attendance.
 ```bash
 pip install opencv-python face_recognition numpy pandas
 
-## 📸 Screenshots
 
-### Face Enrollment
-![Enrollment](images/face.jpeg)
 
-### Attendance Marking
-![Attendance](images/attendance.png)
+## Screenshot of Working Model
+
+![Working Model Screenshot](images/face.jpeg)
