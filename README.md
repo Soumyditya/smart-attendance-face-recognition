@@ -3,6 +3,7 @@
 This project implements a smart attendance system that uses face recognition
 to automatically mark student attendance.
 
+
 ## Features
 - Face registration using webcam
 - Real-time face recognition
@@ -17,14 +18,7 @@ to automatically mark student attendance.
 - Pandas
 
 
-## How to Run
-
-### Step 1: Install dependencies
-```bash
-pip install opencv-python face_recognition numpy pandas
-
-
-
 ## Screenshot of Working Model
+![face](https://github.com/user-attachments/assets/febb75b1-220f-45d3-8dc5-6a50140535e1)
 
-![Working Model Screenshot](images/face.jpeg)
+
