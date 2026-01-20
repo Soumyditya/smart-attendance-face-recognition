@@ -1,4 +1,4 @@
-# Smart Attendance System using Face Recognition
+# Smart Attendance System using RaspberryPi
 
 This project implements a smart attendance system that uses face recognition
 to automatically mark student attendance.
@@ -16,6 +16,13 @@ to automatically mark student attendance.
 - face_recognition
 - NumPy
 - Pandas
+
+## Hardware Used
+- RaspberrypPi
+- Monitor
+- Mouse
+- keyboard
+- Power Supply
 
 
 ## Screenshot of Working Model
